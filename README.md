@@ -5,7 +5,7 @@ Summarizing the content using OpenAI GPT models extracted from the web using Bea
 
 Important: 
 1) The application was built in Python 3.9 and won't run on Python 3.5.
-2) Create a '.env' file in the project's directory and write ypur OpenAI API key into it. Refer 'sample.env' file to know the syntax.
+2) Create a '.env' file in the project's directory and write your OpenAI API key into it. Refer 'sample.env' file to know the syntax.
 3) The application accepts test cases only through command line.
 4) Make sure your presently working directly in the terminal is same as the one where main.py file is present before running the below test cases !!!
 5) The following are the input flags that a user has to specify to run the application:
